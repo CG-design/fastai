@@ -1,4 +1,5 @@
-# fast.ai [![Build Status](https://travis-ci.org/fastai/fastai.svg?branch=master)](https://travis-ci.org/fastai/fastai)
+# 这是一个更新20190116
+fast.ai [![Build Status](https://travis-ci.org/fastai/fastai.svg?branch=master)](https://travis-ci.org/fastai/fastai)
 The fast.ai deep learning library, lessons, and tutorials.
 [http://forums.fast.ai](http://forums.fast.ai) 课程源码 联系及讲义
 Copyright 2017 onwards, Jeremy Howard. Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. A copy of the License is provided in the LICENSE file in this repository.
